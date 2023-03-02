@@ -1,4 +1,4 @@
-FROM python:3.8.12-slim-bullseye
+FROM python:3.12.0a4-slim-bullseye
 
 ARG with_models=false
 
